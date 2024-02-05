@@ -80,7 +80,7 @@
 
 <p align="center" class="d-flex justify-content-center align-items-center">
 
-  <a href="https://github.com/miftahganzz">
+  <a href="https://github.com/ikyalwaysgood">
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miftahganzz&layout=compact&langs_count=8&theme=omni"/>
 
