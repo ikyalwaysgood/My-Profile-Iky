@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/miftahganzz" target="_blank">
+  <a href="https://t.me/xxx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
-  <a href="https://wa.me/6285171226069" target="_blank">
+  <a href="https://wa.me/6285794908894" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="https://codepen.com/@miftah0908" target="_blank">
+  <a href="https://codepen.com/xxx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
   </a>
 </div>
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Miftah GanzZ from Indonesia<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning PHP<br>- ⚡ In my free time I learn new things</p>
+<p align="left">I'm Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ from Indonesia<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning PHP<br>- ⚡ In my free time I learn new things</p>
 
 ###
 
