@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ from Indonesia<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning PHP<br>- ⚡ In my free time I learn new things</p>
+<p align="left">I'm Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ from Indonesia<br><br>- 🔭 I’m working as student<br>- 📚 I'm currently learning JS<br>- ⚡ In my free time I learn new things</p>
 
 ###
 
